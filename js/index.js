@@ -1,10 +1,7 @@
 var app = document.querySelector("#app");
 
 var texts = [
-    //"some",
-    //"you",
-    //"are",
-    "perfect",
+    "a string",
 ];
 
 var styles = ["green", "yellow", "red", "blue", "purple"];
